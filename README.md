@@ -12,17 +12,17 @@
 | **비아이벤처스** | Responsive Web | 2023.06 - 2023.08 | **기획, UX/UI, 퍼블리싱, 프론트엔드, SEO**<br/>`React`, `Next.js`, `GSAP`, `AOS`, `React Animated Cursor` | [Live Service](https://www.biventures.kr) |
 | **하이어코리아 (HIREKOREA)** | Web Platform | 2023.06 - 2024.03 | **기획, UX/UI, 퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `i18next`, `Docker`, `Cron-Job` | [Live Service](https://hirekorea-frontend.vercel.app/ko-KR) |
 | **NH오픈비즈니스허브** | Web Platform | 2024.01 - 2024.11 | **UX/UI, 퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `Tailwind CSS`, `Docker`, `React Form Builder` | [Live Service](https://nhdic.com) |
-| **ASIA PLAT** | Web Platform | 2024.04 - 2024.06 | **기획, UX/UI, 퍼블리싱, 프론트엔드, SEO**<br/>`React`, `Next.js`, `Sass(SCSS)`, `GSAP`, `Lottie` | [Live Demo](https://asiaplat.vercel.app) |
+| **ASIA PLAT** | Web Platform | 2024.04 - 2024.06 | **기획, UX/UI, 퍼블리싱, 프론트엔드, SEO**<br/>`React`, `Next.js`, `Sass(SCSS)`, `GSAP`, `Lottie` | [Demo](https://asiaplat.vercel.app) |
 | **삼성물산 FutureScape** | Landing Page | 2024.05 - 2024.07 | **UX/UI, 퍼블리싱, 프론트엔드, SEO**<br/>`React`, `Next.js`, `Sass(SCSS)`, `GSAP`, `AOS` | [Demo](https://samsung-futurescape.vercel.app) |
 | **2024 스타콘 페스타** | Landing Page | 2024.09 - 2024.10 | **퍼블리싱, 프론트엔드, SEO**<br/>`React`, `Next.js`, `Sass(SCSS)`, `GSAP`, `AOS` | [Demo](https://2024-starcorn.vercel.app) |
 | **KB국민카드 FUTURE9** | Landing Page | 2024.09 - 2024.10 | **퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `Sass(SCSS)`, `GSAP`, `AOS` | [Demo](https://kb-future9.vercel.app) |
-| **STAGE CLOUD DAO** | Web Platform | 2024.12 - 2025.02 | **기획, UX/UI, 퍼블리싱**<br/>`React`, `Next.js 15`, `GSAP`, `pnpm`, `Figma` | [Live Demo](https://muta-stage-cloude-main.vercel.app) |
+| **STAGE CLOUD DAO** | Web Platform | 2024.12 - 2025.02 | **기획, UX/UI, 퍼블리싱**<br/>`React`, `Next.js 15`, `GSAP`, `pnpm`, `Figma` | [Demo](https://muta-stage-cloude-main.vercel.app) |
 | **2025 WKBC (세계한인비즈니스대회)** | Web Platform | 2024.12 - 2025.05 | **UX/UI, 퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `Redux`, `PayPal API`, `i18next` | [Live Service](https://wkbc.us/ko-KR) |
 | **글리처렌탈** | Responsive Web | 2025.05 - 2025.06 | **퍼블리싱, 프론트엔드, SEO**<br/>`React`, `Next.js`, `GSAP`, `AOS`, `Sass(SCSS)` | [Live Demo](https://glitchor-rental.vercel.app) |
 | **무금 캐빈 호텔** | Responsive Web | 2025.08 - 2025.10 | **기획, UX/UI, 퍼블리싱, 프론트엔드**<br/>`Next.js`, `Supabase`, `ONDA Booking Engine`, `i18next` | [Live Demo](https://moogm-frontend-main.vercel.app) |
 | **글리처파트너스 공식 웹** | Responsive Web | 2025.10 - 2025.12 | **기획, UX/UI, 퍼블리싱, 프론트엔드**<br/>`Next.js`, `GSAP`, `Framer-motion`, `SVGator`, `Google Spreadsheet` | [Live Service](https://partners.glitchor.com/) |
 | **나라장터 입찰 플랫폼** | Web Platform | 2026.01 - 2026.02 | **기획, UX/UI, 퍼블리싱, 프론트엔드, DB**<br/>`Next.js`, `NextAuth`, `Vercel KV`, `Cron-Job`, `Google Spreadsheet` | [Live Service](https://partners.glitchor.com/login) |
-| **헤이딜러 클론** | Web Platform | 2026.05 - 2026.06 | **퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `TypeScript`, `Three.js`, `Framer-motion` | [Live Demo](https://heydealer-fe-clone.vercel.app) |
+| **헤이딜러 클론** | Web Platform | 2026.05 - 2026.06 | **퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `TypeScript`, `Three.js`, `Framer-motion` | [Demo](https://heydealer-fe-clone.vercel.app) |
 | **동글일기** | Mobile App | 2026.06 - 2026.07 | **기획, UX/UI, 퍼블리싱, 프론트엔드**<br/>`React Native`, `Expo`, `TypeScript`, `Zustand`, `Google Drive API` | [GitHub](https://github.com/ryugs1014/dongle-diary) |
 
 프로젝트의 상세 내용은 **[포트폴리오 웹사이트](https://gangsanyou.com)** 에서 확인하실 수 있습니다.
