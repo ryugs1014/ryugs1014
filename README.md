@@ -5,6 +5,8 @@
 
 사용자의 시각에서 생각하며, 직관적인 UI/UX 설계부터 모바일/웹 최적화, 그리고 하이엔드 인터랙션까지 다채로운 프론트엔드 생태계를 구축합니다. 기획 및 디자인에 대한 높은 이해도를 바탕으로 팀과 유연하게 소통하며 서비스의 가치를 높입니다.
 
+프로젝트의 상세 내용은 **[포트폴리오 웹사이트 ↗](https://gangsanyou.com)** 에서 확인하실 수 있습니다.
+
 <br/>
 
 ## Projects
@@ -27,7 +29,6 @@
 | **헤이딜러 클론** | Web Platform | 2026.05 - 2026.06 | **퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `TypeScript`, `Three.js`, `Framer-motion` | [Demo](https://heydealer-fe-clone.vercel.app) |
 | **동글일기** | Mobile App | 2026.06 - 2026.07 | **기획, UX/UI, 퍼블리싱, 프론트엔드**<br/>`React Native`, `Expo`, `TypeScript`, `Zustand`, `Google Drive API` | [GitHub](https://github.com/ryugs1014/dongle-diary) |
 
-프로젝트의 상세 내용은 **[포트폴리오 웹사이트 ↗](https://gangsanyou.com)** 에서 확인하실 수 있습니다.
 
 <br/>
 
