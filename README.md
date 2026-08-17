@@ -69,13 +69,4 @@
 [![Portfolio](https://img.shields.io/badge/Gangsan%20Portfolio-000000?style=for-the-badge&logo=groupon&logoColor=white)](https://gangsanyou.com)
 [![Email](https://img.shields.io/badge/ryugs1014@gmail.com-F5792A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryugs1014@gmail.com)
 
-<div>
-  <a href="https://gangsanyou.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gangsan%20Portfolio-000000?style=for-the-badge&logo=groupon&logoColor=white" alt="Portfolio" />
-  </a> 
-  <a href="mailto:ryugs1014@gmail.com">
-    <img src="https://img.shields.io/badge/ryugs1014@gmail.com-F5792A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
 <br/>
