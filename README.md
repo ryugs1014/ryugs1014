@@ -1,3 +1,5 @@
+<br/>
+
 # 👋 Welcome to Gangsan's GitHub 
 **새로운 변화 속에서 최선을 찾는 프론트엔드 개발자 유강산입니다.**
 
@@ -18,8 +20,8 @@
 | **KB국민카드 FUTURE9** | Landing Page | 2024.09 - 2024.10 | **퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `Sass(SCSS)`, `GSAP`, `AOS` | [Demo](https://kb-future9.vercel.app) |
 | **STAGE CLOUD DAO** | Web Platform | 2024.12 - 2025.02 | **기획, UX/UI, 퍼블리싱**<br/>`React`, `Next.js 15`, `GSAP`, `pnpm`, `Figma` | [Demo](https://muta-stage-cloude-main.vercel.app) |
 | **2025 WKBC (세계한인비즈니스대회)** | Web Platform | 2024.12 - 2025.05 | **UX/UI, 퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `Redux`, `PayPal API`, `i18next` | [Live Service](https://wkbc.us/ko-KR) |
-| **글리처렌탈** | Responsive Web | 2025.05 - 2025.06 | **퍼블리싱, 프론트엔드, SEO**<br/>`React`, `Next.js`, `GSAP`, `AOS`, `Sass(SCSS)` | [Live Demo](https://glitchor-rental.vercel.app) |
-| **무금 캐빈 호텔** | Responsive Web | 2025.08 - 2025.10 | **기획, UX/UI, 퍼블리싱, 프론트엔드**<br/>`Next.js`, `Supabase`, `ONDA Booking Engine`, `i18next` | [Live Demo](https://moogm-frontend-main.vercel.app) |
+| **글리처렌탈** | Responsive Web | 2025.05 - 2025.06 | **퍼블리싱, 프론트엔드, SEO**<br/>`React`, `Next.js`, `GSAP`, `AOS`, `Sass(SCSS)` | [Demo](https://glitchor-rental.vercel.app) |
+| **무금 캐빈 호텔** | Responsive Web | 2025.08 - 2025.10 | **기획, UX/UI, 퍼블리싱, 프론트엔드**<br/>`Next.js`, `Supabase`, `ONDA Booking Engine`, `i18next` | [Demo](https://moogm-frontend-main.vercel.app) |
 | **글리처파트너스 공식 웹** | Responsive Web | 2025.10 - 2025.12 | **기획, UX/UI, 퍼블리싱, 프론트엔드**<br/>`Next.js`, `GSAP`, `Framer-motion`, `SVGator`, `Google Spreadsheet` | [Live Service](https://partners.glitchor.com/) |
 | **나라장터 입찰 플랫폼** | Web Platform | 2026.01 - 2026.02 | **기획, UX/UI, 퍼블리싱, 프론트엔드, DB**<br/>`Next.js`, `NextAuth`, `Vercel KV`, `Cron-Job`, `Google Spreadsheet` | [Live Service](https://partners.glitchor.com/login) |
 | **헤이딜러 클론** | Web Platform | 2026.05 - 2026.06 | **퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `TypeScript`, `Three.js`, `Framer-motion` | [Demo](https://heydealer-fe-clone.vercel.app) |
@@ -55,9 +57,9 @@
 
 ### UX/UI & 3D
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
