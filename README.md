@@ -27,7 +27,7 @@
 | **헤이딜러 클론** | Web Platform | 2026.05 - 2026.06 | **퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `TypeScript`, `Three.js`, `Framer-motion` | [Demo](https://heydealer-fe-clone.vercel.app) |
 | **동글일기** | Mobile App | 2026.06 - 2026.07 | **기획, UX/UI, 퍼블리싱, 프론트엔드**<br/>`React Native`, `Expo`, `TypeScript`, `Zustand`, `Google Drive API` | [GitHub](https://github.com/ryugs1014/dongle-diary) |
 
-프로젝트의 상세 내용은 **[포트폴리오 웹사이트](https://gangsanyou.com)** 에서 확인하실 수 있습니다.
+프로젝트의 상세 내용은 **[포트폴리오 웹사이트 ↗](https://gangsanyou.com)** 에서 확인하실 수 있습니다.
 
 <br/>
 
@@ -68,5 +68,14 @@
 ## Contact
 [![Portfolio](https://img.shields.io/badge/Gangsan%20Portfolio-000000?style=for-the-badge&logo=groupon&logoColor=white)](https://gangsanyou.com)
 [![Email](https://img.shields.io/badge/ryugs1014@gmail.com-F5792A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryugs1014@gmail.com)
+
+<div>
+  <a href="https://gangsanyou.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gangsan%20Portfolio-000000?style=for-the-badge&logo=groupon&logoColor=white" alt="Portfolio" />
+  </a> 
+  <a href="mailto:ryugs1014@gmail.com">
+    <img src="https://img.shields.io/badge/ryugs1014@gmail.com-F5792A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 <br/>
