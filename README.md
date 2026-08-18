@@ -14,7 +14,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **바프독 (BARFDOG)** | Web Platform | 2022.06 - 2023.05 | **UX/UI, 퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `Tailwind CSS`, `Redux`, `GSAP` | [Live Service](https://barfdog.co.kr) |
 | **비아이벤처스** | Responsive Web | 2023.06 - 2023.08 | **기획, UX/UI, 퍼블리싱, 프론트엔드, SEO**<br/>`React`, `Next.js`, `GSAP`, `AOS`, `React Animated Cursor` | [Live Service](https://www.biventures.kr) |
-| **하이어코리아 (HIREKOREA)** | Web Platform | 2023.06 - 2024.03 | **기획, UX/UI, 퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `i18next`, `Docker`, `Cron-Job` | [Live Service](https://hirekorea-frontend.vercel.app/ko-KR) |
+| **하이어코리아 (HIREKOREA)** | Web Platform | 2023.06 - 2024.03 | **기획, UX/UI, 퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `i18next`, `Docker`, `Cron-Job` | [Live Service](https://hirekorea-frontend-main.vercel.app/ko-KR) |
 | **NH오픈비즈니스허브** | Web Platform | 2024.01 - 2024.11 | **UX/UI, 퍼블리싱, 프론트엔드**<br/>`React`, `Next.js`, `Tailwind CSS`, `Docker`, `React Form Builder` | [Live Service](https://nhdic.com) |
 | **ASIA PLAT** | Web Platform | 2024.04 - 2024.06 | **기획, UX/UI, 퍼블리싱, 프론트엔드, SEO**<br/>`React`, `Next.js`, `Sass(SCSS)`, `GSAP`, `Lottie` | [Demo](https://asiaplat.vercel.app) |
 | **삼성물산 FutureScape** | Landing Page | 2024.05 - 2024.07 | **UX/UI, 퍼블리싱, 프론트엔드, SEO**<br/>`React`, `Next.js`, `Sass(SCSS)`, `GSAP`, `AOS` | [Demo](https://samsung-futurescape.vercel.app) |
