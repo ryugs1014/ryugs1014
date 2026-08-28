@@ -5,7 +5,7 @@
 
 사용자의 시각에서 생각하며, 직관적인 UI/UX 설계부터 모바일/웹 최적화, 그리고 하이엔드 인터랙션까지 다채로운 프론트엔드 생태계를 구축합니다. 기획 및 디자인에 대한 높은 이해도를 바탕으로 팀과 유연하게 소통하며 서비스의 가치를 높입니다.
 
-프로젝트의 상세 내용은 **[포트폴리오 웹사이트 ↗](https://gangsanyou.com)** 에서 확인하실 수 있습니다.
+프로젝트의 상세 내용은 **[포트폴리오 웹사이트 ↗](https://2026.gangsanyou.com)** 에서 확인하실 수 있습니다.
 
 <br/>
 
@@ -67,7 +67,7 @@
 <br/>
 
 ## Contact
-[![Portfolio](https://img.shields.io/badge/Gangsan%20Portfolio-000000?style=for-the-badge&logo=groupon&logoColor=white)](https://gangsanyou.com)
+[![Portfolio](https://img.shields.io/badge/Gangsan%20Portfolio-000000?style=for-the-badge&logo=groupon&logoColor=white)](https://2026.gangsanyou.com)
 [![Email](https://img.shields.io/badge/ryugs1014@gmail.com-F24E1E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryugs1014@gmail.com)
 
 <br/>
